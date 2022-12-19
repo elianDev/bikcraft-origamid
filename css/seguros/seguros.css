@@ -63,5 +63,6 @@
 @media (max-width: 800px) {
   .seguros {
     grid-template-columns: 1fr;
+    padding: 40px 20px;
   }
 }
